@@ -25,4 +25,3 @@ Impact: Enabled automated, data-driven loan approval assessments, contributing t
 
 
 
-ChatGPT can m
